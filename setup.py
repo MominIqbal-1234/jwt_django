@@ -124,7 +124,7 @@ Developed by : Momin Iqbal
     long_description_content_type="text/markdown",
     packages=find_packages(),
     package_data={'jwt_django': ['ktoken.cp37-win32.pyd']},
-    install_requires=["django","djangorestframework"],
+    install_requires=["django","djangorestframework","PyJWT"],
     keywords=['python', 'django', 'jwt', 'jwt for django','jwt for django','jwt_django','django_jwt'],
     classifiers=[
         "Development Status :: 1 - Planning",
