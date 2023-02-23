@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 
-VERSION = '1.0'
+VERSION = '1.1'
 DESCRIPTION = 'Provide end-to-end control jwt token (Simple & Easy to Use)'
 
 
